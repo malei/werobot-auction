@@ -1,4 +1,4 @@
-#基于werobot的一个微信拍卖机器人
+#基于werobot的微信拍卖机器人
 
 * 基于werobot库
 * 数据库使用mongodb
